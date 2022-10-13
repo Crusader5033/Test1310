@@ -1,0 +1,36 @@
+.background1{
+    background-color: gray ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.background2{
+    background-color: black ;
+}
+.background3{
+    background-color: green ;
+}
+h1{
+    font-size: 45px;
+    text-decoration: overline;
+    text-align: center;
+}
+nav{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: black;
+    
+}
+.list{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+
+}
+.list li{
+    list-style: none;
+}
+.list li a{
+    font-size: 35px;
+    color: white;
+    text-decoration: none;
+}
